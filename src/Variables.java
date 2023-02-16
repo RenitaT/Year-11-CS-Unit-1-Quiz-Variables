@@ -19,14 +19,14 @@ public class Variables {
 
         int dollars = (int) balance;
 
-        //System.out.println(dollars);
+        System.out.println(dollars);
 
         // 5.
 
         balance += 0.5;
         int dollarsRounded = (int) balance;
 
-        //System.out.println(dollarsRounded);
+        System.out.println(dollarsRounded);
 
         // 6.
 
