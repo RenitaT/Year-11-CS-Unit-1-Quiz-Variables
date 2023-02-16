@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="022ba592-6b18-4584-a4f9-99d563c6ad6b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables.java" afterDir="false" />
-    </list>
+    <list default="true" id="022ba592-6b18-4584-a4f9-99d563c6ad6b" name="Changes" comment="Yaya finished" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +58,14 @@
       <option name="presentableId" value="Default" />
       <updated>1675995984520</updated>
     </task>
+    <task id="LOCAL-00001" summary="Yaya finished">
+      <created>1676508163238</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676508163238</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,5 +78,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Yaya finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Yaya finished" />
   </component>
 </project>
